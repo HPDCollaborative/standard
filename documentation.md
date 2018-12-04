@@ -1,9 +1,9 @@
-## Overview
+- Overview
    - [Introduction](/standard/{{version}}/introduction)
    - [Release Notes](/standard/{{version}}/release-notes)
-## Section by Section Guidance
+- Section by Section Guidance
    - [Introduction](/standard/{{version}}/guidance)
-## Section 1: Summary
+- Section 1: Summary
    - [Overview](/standard/{{version}}/summary-overview)
    - [General Information](/standard/{{version}}/summary-general)
    - [Content Inventory](/standard/{{version}}/summary-inventory)
