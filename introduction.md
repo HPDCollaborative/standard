@@ -48,7 +48,7 @@ The HPD Open Standard does not:
 * address potential health impacts of: (i) substances used or created during the manufacturing
 process unless they remain in the final product, or (ii) substances created after the product is delivered for end use (e.g., if the product burns, degrades, or otherwise changes chemical composition).
 
-> {note} 1  See HPD Collaborative website for definitions and discussion of these terms.
+> {note} 1. See HPD Collaborative website for definitions and discussion of these terms.
 
 <a name="preparing"></a>
 ## 1.4 Preparing an HPD
