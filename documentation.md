@@ -4,17 +4,11 @@
 
 ## 2.0 Section by Section Guidance
    - [Introduction](/standard/{{version}}/guidance)
+   - [2.1 Summary](/standard/{{version}}/summary)
+   - [2.2 Content Inventory](/standard/{{version}}/content-inventory)
+   - [2.3 Certifications/Compliance](/standard/{{version}}/certification-compliance)
+   - [2.4 Accessories](/standard/{{version}}/accessories)
+   - [2.5 General Notes](/standard/{{version}}/general-notes)
+   - [2.6 References](/standard/{{version}}/references)
 
-## 2.1 Section 1 - Summary
-   - [Overview](/standard/{{version}}/summary-overview)
-   - [General Information](/standard/{{version}}/summary-general)
-   - [Content Inventory](/standard/{{version}}/summary-inventory)
-   - [Content in Descending Order of Quantity](/standard/{{version}}/summary-quantity)
-   - [Volatile Organic Compound Content](/standard/{{version}}/summary-voc)
-   - [Certifications and Compliance](/standard/{{version}}/summary-compliance)
-   - [Publication](/standard/{{version}}/summary-publication)
-
-## 2.2 Section 2 - Content Inventory
-   - [Overview](/standard/{{version}}/content-overview)
-   - [Material](/standard/{{version}}/content-material)
-   - [Substance](/standard/{{version}}/content-substance)
+## 3.0 Variations

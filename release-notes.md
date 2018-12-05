@@ -7,7 +7,7 @@
 <a name="version"></a>
 ## Version
 
-This document represents Open Standard version: **Master**.
+This document represents Open Standard version: **2.0**.
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
