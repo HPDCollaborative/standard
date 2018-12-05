@@ -13,3 +13,8 @@
    - [Volatile Organic Compound Content](/standard/{{version}}/summary-voc)
    - [Certifications and Compliance](/standard/{{version}}/summary-compliance)
    - [Publication](/standard/{{version}}/summary-publication)
+
+## 2.2 Section 2 - Content Inventory
+   - [Overview](/standard/{{version}}/content-overview)
+   - [Material](/standard/{{version}}/content-material)
+   - [Substance](/standard/{{version}}/content-substance)
