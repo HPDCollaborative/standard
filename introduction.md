@@ -1,15 +1,15 @@
-# Overview
+# 1.0 Overview of the Health Product Declaration<sup>&reg;</sup> Open Standard
 
-- [Introduction](#introduction)
-- [1.1 Purpose](#purpose)
-- [1.2 Scope](#scope)
-- [1.3 HPD Open Standard Exclusions](#exclusions)
-- [1.4 Preparing an HPD](#preparing)
-- [1.5 About the HPD Collaborative](#about)
-- [1.6 More Information](#more)
+- [About the Health Product Declaration<sup>&reg;</sup> Open Standard](#introduction)
+- [Purpose](#purpose)
+- [Scope](#scope)
+- [HPD Open Standard Exclusions](#exclusions)
+- [Preparing an HPD](#preparing)
+- [About the HPD Collaborative](#about)
+- [More Information](#more)
 
 <a name="introduction"></a>
-## Introduction
+## About the Health Product Declaration<sup>&reg;</sup> Open Standard
 
 The Health Product Declaration (HPD) Open Standard provides for the disclosure of product contents and potential associated human and environmental health hazards. Hazard associations are based on the HPD Priority Hazard Lists, the GreenScreen List Translator, and when available, full GreenScreen assessments. The HPD Open Standard consists of two components:
 
@@ -44,11 +44,9 @@ The Health Product Declaration Open Standard is the only authoritative reference
 The HPD Open Standard does not:
 
 * provide an assessment of health impacts throughout the product life cycle,
-* provide an assessment of exposure or risk associated with product handling or use1,
+* provide an assessment of exposure or risk associated with product handling or use<sup>1</sup>,
 * address potential health impacts of: (i) substances used or created during the manufacturing
 process unless they remain in the final product, or (ii) substances created after the product is delivered for end use (e.g., if the product burns, degrades, or otherwise changes chemical composition).
-
-> {note} 1. See HPD Collaborative website for definitions and discussion of these terms.
 
 <a name="preparing"></a>
 ## 1.4 Preparing an HPD
@@ -66,3 +64,15 @@ The HPD Open Standard was created and is maintained and evolved by the Health Pr
 ## 1.6 More Information
 
 For more information about the Health Product Declaration Open Standard, the HPD Collaborative, the most current versions of relevant documents, and future updates, visit [www.hpd-collaborative.org](https://www.hpd-collaborative.org).
+
+<hr>
+
+<div class="callout-block callout-info">
+    <div class="icon-holder">
+        <i class="fas fa-info-circle"></i>
+    </div>
+    <div class="content">
+        <h4 class="callout-title">Footnotes:</h4>
+        <p>[ 1 ] &nbsp; See HPD Collaborative website for definitions and discussion of these terms.</p>
+    </div>
+</div>

@@ -1,11 +1,11 @@
-## Overview
+## 1.0 Open Standard Overview
    - [Introduction](/standard/{{version}}/introduction)
    - [Release Notes](/standard/{{version}}/release-notes)
 
-## Section by Section Guidance
+## 2.0 Section by Section Guidance
    - [Introduction](/standard/{{version}}/guidance)
 
-## Section 1: Summary
+## 2.1 Section 1 - Summary
    - [Overview](/standard/{{version}}/summary-overview)
    - [General Information](/standard/{{version}}/summary-general)
    - [Content Inventory](/standard/{{version}}/summary-inventory)
